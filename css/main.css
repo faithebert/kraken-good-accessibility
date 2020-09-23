@@ -125,7 +125,7 @@ article div :first-child {
 }
 
 article div :first-child::first-line {
-  color: #1e7c74;
+  color: #fff;
   font-style: italic;
 }
 
